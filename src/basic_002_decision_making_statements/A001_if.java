@@ -14,4 +14,5 @@ public class A001_if {
 * WAP to check odd or even 
 * WAP to print vowel or not (print both upper and lower)
 * WAP to print vowel or not (print in lower case)
+* 
 */

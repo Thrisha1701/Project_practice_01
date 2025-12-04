@@ -44,7 +44,15 @@ public class A003_arithmetic_operators {
         System.out.println("Enter the second number:");
         n = sc.nextInt();
         x=m+n;
-		System.out.println("Addition of : " + m + "and" + n + "is:" + x);
+		System.out.println("Addition of " + m + " and " + n + " is:" + x);
+		x=m-n;
+		System.out.println("subtraction of " + m + " and " + n + " is:" +x);
+		x=m*n;
+		System.out.println("Multiplication of " + m + " and " + n + " is:" +x);
+		x=m/n;
+		System.out.println("Division of " + m + " and " + n + " is:" +x);
+		x=m%n;
+		System.out.println("The remainde of " + m + " and " + n + " is:" +x);
 
 	}
 

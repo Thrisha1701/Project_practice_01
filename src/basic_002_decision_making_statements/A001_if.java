@@ -8,3 +8,10 @@ public class A001_if {
 		}
 	}
 }
+/*
+* write a program to print positive or negative
+* WAP to +,_,0
+* WAP to check odd or even 
+* WAP to print vowel or not (print both upper and lower)
+* WAP to print vowel or not (print in lower case)
+*/

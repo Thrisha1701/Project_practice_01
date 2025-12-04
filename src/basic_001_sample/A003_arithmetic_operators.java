@@ -3,6 +3,8 @@
  */
 package basic_001_sample;
 
+import java.util.Scanner;
+
 /**
  * Write a java program to implement all arithmetic operators
  */
@@ -12,7 +14,7 @@ public class A003_arithmetic_operators {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("----- arithmetic operation with static input-----");
 		int a = 22;
         int b = 34;
         int res;
@@ -32,6 +34,17 @@ public class A003_arithmetic_operators {
         // Modulus (Remainder)
         res = a % 7;
         System.out.println("Remainder is: "+res); 
+        
+        System.out.println("----- arithmetic operation with Dynamic input-----");
+        
+        int m,n,x;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the first number:");
+        m = sc.nextInt();
+        System.out.println("Enter the second number:");
+        n = sc.nextInt();
+        x=m+n;
+		System.out.println("Addition of : " + m + "and" + n + "is:" + x);
 
 	}
 

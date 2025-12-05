@@ -43,6 +43,7 @@ public class A003_arithmetic_operators {
         m = sc.nextInt();
         System.out.println("Enter the second number:");
         n = sc.nextInt();
+        sc.close();
         x=m+n;
 		System.out.println("Addition of " + m + " and " + n + " is:" + x);
 		x=m-n;

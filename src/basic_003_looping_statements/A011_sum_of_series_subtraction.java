@@ -24,5 +24,4 @@ public class A011_sum_of_series_subtraction {
         System.out.println("Sum of series 1 - 2^1 - 2^2 - ... - 2^" + n + " = " + sum);
 
 	}
-
 }

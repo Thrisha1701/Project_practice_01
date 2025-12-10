@@ -14,7 +14,7 @@ public class A002_if_else {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int money=1000;
+		int money=200;
 		if (money>500) {
 			System.out.println("with draw logic will work");
 		} else {

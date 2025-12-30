@@ -19,8 +19,6 @@ public class A003_relational_operators {
 		// TODO Auto-generated method stub
 		System.out.println("relational operators");
 		
-		
-		
 
 	}
 

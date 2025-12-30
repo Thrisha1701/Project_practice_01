@@ -16,6 +16,7 @@ class A012_testclass {
 	public static void m1() {
 		System.out.println("This is A012_testclass Program");
 		System.out.println(A012_testclass.instance_variable);
+		System.out.println("end of method1");
 		
 	}
 	

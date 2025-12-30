@@ -13,7 +13,7 @@ public class A002_max_of_2numbers {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] thrisha) {
 		// TODO Auto-generated method stub
 		System.out.println("Logic 1");
 		int num1 = 6;

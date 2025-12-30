@@ -18,6 +18,8 @@ class A012_testclass {
 		System.out.println(A012_testclass.instance_variable);
 		System.out.println("end of method1");
 		
+		
+		
 	}
 	
 }

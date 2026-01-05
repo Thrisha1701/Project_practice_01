@@ -37,7 +37,7 @@ public class A011_2d_Array_sum_of_2Arrays {
 		System.out.println("Array 1: ");
 		for(int i=0; i<rows;i++) {
 			for (int j=0; j<columns; j++) {
-				System.out.println(array1[i][j]+" ");
+				System.out.print(array1[i][j]+" ");
 			}
 			System.out.println();
 		}
@@ -45,7 +45,7 @@ public class A011_2d_Array_sum_of_2Arrays {
 		System.out.println("Array 2: ");
 		for(int i=0; i<rows;i++) {
 			for (int j=0; j<columns; j++) {
-				System.out.println(array2[i][j]+" ");
+				System.out.print(array2[i][j]+" ");
 			}
 			System.out.println();
 		}
@@ -53,7 +53,7 @@ public class A011_2d_Array_sum_of_2Arrays {
 		System.out.println("Sum of Two Arrays: ");
 		for(int i=0; i<2;i++) {
 			for (int j=0; j<2; j++) {
-				System.out.println(sum[i][j]+" ");
+				System.out.print(sum[i][j]+" ");
 			}
 			System.out.println();
 		}
@@ -61,3 +61,6 @@ public class A011_2d_Array_sum_of_2Arrays {
 	}
 
 }
+
+
+//try using dynamic inputs 

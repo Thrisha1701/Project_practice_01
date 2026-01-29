@@ -53,8 +53,8 @@ public class A001_String1 {
 		String s3 = "PYTHON";
 		
 		System.out.println(s1.codePointBefore(1));
-		System.out.println(s1.codePointCount(0, 7));
-		//System.out.println(s1.compareTo(s));
+		System.out.println(s1.codePointCount(0, 2));
+		System.out.println(s1.compareTo(s));
 		//System.out.println(s1.compareToIgnoreCase(s2));
 		//System.out.println(s1.contains(s1));
 		//System.out.println(s1.contentEquals(s3));
